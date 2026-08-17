@@ -1,0 +1,63 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "\n",
+        "# Menampilkan data nama menggunakan fungsi print()\n",
+        "print(\"Nama: Fajar Kurniawan\")\n",
+        "\n",
+        "# Menampilkan data NIM menggunakan fungsi print()\n",
+        "print(\"NIM: 2605060007\")\n",
+        "\n",
+        "# Menampilkan tempat dan tanggal lahir menggunakan fungsi print()\n",
+        "print(\"Tempat Tanggal Lahir: Magelang, 26 Juni 2008\")\n",
+        "\n",
+        "# Menampilkan alamat menggunakan fungsi print()\n",
+        "print(\"Alamat: Magelang, Jawa Tengah\")\n",
+        "\n",
+        "# Menampilkan jenis kelamin menggunakan fungsi print()\n",
+        "print(\"Jenis Kelamin: Laki-laki\")\n",
+        "\n",
+        "# Menampilkan hobi menggunakan fungsi print()\n",
+        "print(\"Hobi: Scrol tiktok\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "_c7q64Sv2Rrn",
+        "outputId": "5a25a5c2-9cc5-4375-e53f-27235735c7ed"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Nama: Fajar Kurniawan\n",
+            "NIM: 2605060007\n",
+            "Tempat Tanggal Lahir: Magelang, 26 Juni 2008\n",
+            "Alamat: Magelang, Jawa Tengah\n",
+            "Jenis Kelamin: Laki-laki\n",
+            "Hobi: Scrol tiktok\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
